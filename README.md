@@ -36,7 +36,7 @@ contract MyToken is ERC20 {
 }
 
 The project will be running on our localhost. 
-Typically at http://localhost:5000
+Typically at http://localhost:3000
 ## Author
 Harshita saini
 21bcs5576@cuchd.in
